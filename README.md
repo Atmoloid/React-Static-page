@@ -30,6 +30,7 @@ Explanation
 React Rendering: The createRoot function from react-dom/client is used to target the root DOM node in the HTML.
 
 JSX Syntax: The content is written using JSX, which is a syntax extension for JavaScript that resembles HTML.
+All of this project was originally made on Scrimba
 
 Fragment (<> </>): A React fragment is used to wrap multiple elements without adding extra nodes to the DOM.
 
