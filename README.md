@@ -1,4 +1,4 @@
-React Static Page - Fun Facts about React
+# React Static Page
 
 This project is a simple static web page built using React. It demonstrates how to use React to create a basic user interface with JSX and render it to the DOM.
 
